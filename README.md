@@ -8,6 +8,7 @@ Code is unmodified from ChatGPT output, but comments and docstrings added are my
 
 Tested on `python==3.11` and `PySide6==6.7.2`
 
+In an environment where `python` points to Python 3.11, do `python -m pip install PySide6==6.7.2`
 # Running
 
 After installing the dependencies, run `python main.py`
