@@ -1,6 +1,6 @@
 # Overview
 
-MVC-example is a simple Todo List GUI written, by ChatGPT-4o, to serve as a concise example for the Model View Controller architecture.
+MVC-example is a simple Todo List GUI written by ChatGPT-4o to serve as a concise example for the Model View Controller architecture.
 
 Code is unmodified from ChatGPT output, but comments and docstrings added are my own.
 
